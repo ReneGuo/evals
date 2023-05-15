@@ -1,0 +1,6 @@
+xverse/xchat/stable:
+  class: evals.completion_fns.xchat:XChatCompletionFn
+  args:
+    model_addr: "http://101.43.162.118:20021/run/chat"
+    # model_addr = "http://43.136.56.121:7008/run/chat"
+    # model_addr = "http://101.43.162.118:20021/run/chat"
